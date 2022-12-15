@@ -1,0 +1,4 @@
+id,物品名称,物品说明,物品所在地址,联系人手机,联系人邮箱,类型,属性,主人
+1,macbook2019,成色很新,浙江嘉兴,15968363626,huyuheng0518@icloud.com,笔记本电脑,"{'颜色': '银色', '品牌': 'Apple', '尺寸': '13.3寸', '配置': 'i5'}",hyh
+11,sdadas,wadawd,wdwd,15968363626,huyuheng0518@icloud.com,食品,"{'数量': 'asd', '保质期': 'w22'}",hyh
+12,ded,ewqewqe,wadaw,15968363626,huyuheng0518@icloud.com,手机,"{'储存空间': 'dw', '尺寸': 'as', '品牌': 'ewq', '运行空间': '111'}",hyh
